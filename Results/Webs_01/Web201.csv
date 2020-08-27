@@ -1,0 +1,6 @@
+Predator,Prey,Pred Mass,Prey Mass,ED_Predator,ED_Prey,EDi,Scenario
+Rattus_norvegicus,Apodemus_sylvaticus,2.552303,1.4843,4.288733,2.559409,6.848141999999999,CU
+Vulpes_lagopus,Apodemus_sylvaticus,3.687324,1.4843,2.558301,2.559409,5.117710000000001,CU
+Vulpes_lagopus,Rattus_norvegicus,3.687324,2.552303,2.558301,4.288733,6.847034,CU
+Vulpes_lagopus,Apodemus_sylvaticus,3.687324,1.4843,2.558301,2.559409,5.117710000000001,PN
+Vulpes_lagopus,Apodemus_sylvaticus,3.687324,1.4843,2.558301,2.559409,5.117710000000001,RW

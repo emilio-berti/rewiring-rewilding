@@ -1,0 +1,16 @@
+Predator,Prey,Pred Mass,Prey Mass,ED_Predator,ED_Prey,EDi,Scenario
+Hydromys_chrysogaster,Rattus_fuscipes,2.68106,2.123852,3.358475,3.706634,7.065109,CU
+Conilurus_albipes,Pseudomys_gouldii,2.30103,1.69897,3.124743,1.131074,4.255817,PN
+Conilurus_albipes,Pseudomys_novaehollandiae,2.30103,1.30103,3.124743,1.372569,4.497312,PN
+Conilurus_albipes,Rattus_fuscipes,2.30103,2.123852,3.124743,3.706634,6.831377,PN
+Hydromys_chrysogaster,Conilurus_albipes,2.68106,2.30103,3.358475,3.124743,6.483218,PN
+Hydromys_chrysogaster,Pseudomys_gouldii,2.68106,1.69897,3.358475,1.131074,4.489549,PN
+Hydromys_chrysogaster,Pseudomys_novaehollandiae,2.68106,1.30103,3.358475,1.372569,4.731044,PN
+Hydromys_chrysogaster,Rattus_fuscipes,2.68106,2.123852,3.358475,3.706634,7.065109,PN
+Pseudomys_gouldii,Pseudomys_novaehollandiae,1.69897,1.30103,1.131074,1.372569,2.503643,PN
+Rattus_fuscipes,Conilurus_albipes,2.123852,2.30103,3.706634,3.124743,6.831377,PN
+Rattus_fuscipes,Pseudomys_gouldii,2.123852,1.69897,3.706634,1.131074,4.837708,PN
+Rattus_fuscipes,Pseudomys_novaehollandiae,2.123852,1.30103,3.706634,1.372569,5.079203,PN
+Hydromys_chrysogaster,Pseudomys_novaehollandiae,2.68106,1.30103,3.358475,1.372569,4.731044,RW
+Hydromys_chrysogaster,Rattus_fuscipes,2.68106,2.123852,3.358475,3.706634,7.065109,RW
+Rattus_fuscipes,Pseudomys_novaehollandiae,2.123852,1.30103,3.706634,1.372569,5.079203,RW

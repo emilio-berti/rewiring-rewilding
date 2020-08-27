@@ -1,0 +1,18 @@
+Predator,Prey,Pred Mass,Prey Mass,Scenario
+Hydromys_chrysogaster,Rattus_fuscipes,2.68106,2.123852,CU
+Hydromys_chrysogaster,Pseudomys_albocinereus,2.68106,1.4843,PN
+Hydromys_chrysogaster,Pseudomys_shortridgei,2.68106,1.845098,PN
+Hydromys_chrysogaster,Rattus_fuscipes,2.68106,2.123852,PN
+Pseudomys_albocinereus,Pseudomys_shortridgei,1.4843,1.845098,PN
+Pseudomys_shortridgei,Pseudomys_albocinereus,1.845098,1.4843,PN
+Pseudomys_shortridgei,Rattus_fuscipes,1.845098,2.123852,PN
+Rattus_fuscipes,Pseudomys_albocinereus,2.123852,1.4843,PN
+Rattus_fuscipes,Pseudomys_shortridgei,2.123852,1.845098,PN
+Hydromys_chrysogaster,Pseudomys_albocinereus,2.68106,1.4843,RW
+Hydromys_chrysogaster,Pseudomys_shortridgei,2.68106,1.845098,RW
+Hydromys_chrysogaster,Rattus_fuscipes,2.68106,2.123852,RW
+Pseudomys_albocinereus,Pseudomys_shortridgei,1.4843,1.845098,RW
+Pseudomys_shortridgei,Pseudomys_albocinereus,1.845098,1.4843,RW
+Pseudomys_shortridgei,Rattus_fuscipes,1.845098,2.123852,RW
+Rattus_fuscipes,Pseudomys_albocinereus,2.123852,1.4843,RW
+Rattus_fuscipes,Pseudomys_shortridgei,2.123852,1.845098,RW

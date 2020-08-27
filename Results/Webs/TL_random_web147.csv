@@ -1,0 +1,6 @@
+Size,PN,CU,RW
+Megaherbivore,1,0,0
+Mesocarnivore,1,1,1
+Mesoherbivore,4,1,2
+Microcarnivore,9,8,8
+Microherbivore,15,15,15

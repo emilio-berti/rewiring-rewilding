@@ -1,0 +1,27 @@
+Predator,Prey,Pred Mass,Prey Mass,Scenario
+Canis_lupus,Lepus_arcticus,4.507631,3.643946,CU
+Canis_lupus,Lemmus_trimucronatus,4.507631,1.905796,CU
+Canis_lupus,Vulpes_lagopus,4.507631,3.687324,CU
+Gulo_gulo,Lemmus_trimucronatus,4.230771,1.905796,CU
+Gulo_gulo,Lepus_arcticus,4.230771,3.643946,CU
+Lontra_canadensis,Lemmus_trimucronatus,3.907809,1.905796,CU
+Lontra_canadensis,Lepus_arcticus,3.907809,3.643946,CU
+Ursus_arctos,Rangifer_tarandus,5.256526,4.93467,CU
+Vulpes_lagopus,Lepus_arcticus,3.687324,3.643946,CU
+Vulpes_lagopus,Lemmus_trimucronatus,3.687324,1.905796,CU
+Canis_lupus,Lepus_arcticus,4.507631,3.643946,PN
+Canis_lupus,Lemmus_trimucronatus,4.507631,1.905796,PN
+Canis_lupus,Vulpes_lagopus,4.507631,3.687324,PN
+Gulo_gulo,Lemmus_trimucronatus,4.230771,1.905796,PN
+Gulo_gulo,Lepus_arcticus,4.230771,3.643946,PN
+Ursus_arctos,Rangifer_tarandus,5.256526,4.93467,PN
+Vulpes_lagopus,Lepus_arcticus,3.687324,3.643946,PN
+Vulpes_lagopus,Lemmus_trimucronatus,3.687324,1.905796,PN
+Canis_lupus,Lepus_arcticus,4.507631,3.643946,RW
+Canis_lupus,Lemmus_trimucronatus,4.507631,1.905796,RW
+Canis_lupus,Vulpes_lagopus,4.507631,3.687324,RW
+Gulo_gulo,Lemmus_trimucronatus,4.230771,1.905796,RW
+Gulo_gulo,Lepus_arcticus,4.230771,3.643946,RW
+Ursus_arctos,Rangifer_tarandus,5.256526,4.93467,RW
+Vulpes_lagopus,Lepus_arcticus,3.687324,3.643946,RW
+Vulpes_lagopus,Lemmus_trimucronatus,3.687324,1.905796,RW

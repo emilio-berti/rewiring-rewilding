@@ -1,0 +1,18 @@
+Predator,Prey,Pred Mass,Prey Mass,ED_Predator,ED_Prey,EDi,Scenario
+Hydromys_chrysogaster,Rattus_fuscipes,2.68106,2.123852,3.358475,3.706634,7.065109,CU
+Hydromys_chrysogaster,Rattus_lutreolus,2.68106,2.025306,3.358475,3.007309,6.365784,CU
+Rattus_fuscipes,Rattus_lutreolus,2.123852,2.025306,3.706634,3.007309,6.713943,CU
+Rattus_lutreolus,Rattus_fuscipes,2.025306,2.123852,3.007309,3.706634,6.713943,CU
+Conilurus_albipes,Rattus_fuscipes,2.30103,2.123852,3.124743,3.706634,6.831377,PN
+Conilurus_albipes,Rattus_lutreolus,2.30103,2.025306,3.124743,3.007309,6.132052,PN
+Hydromys_chrysogaster,Conilurus_albipes,2.68106,2.30103,3.358475,3.124743,6.483218,PN
+Hydromys_chrysogaster,Rattus_fuscipes,2.68106,2.123852,3.358475,3.706634,7.065109,PN
+Hydromys_chrysogaster,Rattus_lutreolus,2.68106,2.025306,3.358475,3.007309,6.365784,PN
+Rattus_fuscipes,Conilurus_albipes,2.123852,2.30103,3.706634,3.124743,6.831377,PN
+Rattus_fuscipes,Rattus_lutreolus,2.123852,2.025306,3.706634,3.007309,6.713943,PN
+Rattus_lutreolus,Conilurus_albipes,2.025306,2.30103,3.007309,3.124743,6.132052,PN
+Rattus_lutreolus,Rattus_fuscipes,2.025306,2.123852,3.007309,3.706634,6.713943,PN
+Hydromys_chrysogaster,Rattus_fuscipes,2.68106,2.123852,3.358475,3.706634,7.065109,RW
+Hydromys_chrysogaster,Rattus_lutreolus,2.68106,2.025306,3.358475,3.007309,6.365784,RW
+Rattus_fuscipes,Rattus_lutreolus,2.123852,2.025306,3.706634,3.007309,6.713943,RW
+Rattus_lutreolus,Rattus_fuscipes,2.025306,2.123852,3.007309,3.706634,6.713943,RW

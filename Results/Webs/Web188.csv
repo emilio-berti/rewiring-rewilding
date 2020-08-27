@@ -1,0 +1,25 @@
+Predator,Prey,Pred Mass,Prey Mass,Scenario
+Canis_lupus,Lepus_arcticus,4.507631,3.643946,CU
+Canis_lupus,Dicrostonyx_groenlandicus,4.507631,1.735599,CU
+Canis_lupus,Vulpes_lagopus,4.507631,3.687324,CU
+Gulo_gulo,Dicrostonyx_groenlandicus,4.230771,1.735599,CU
+Gulo_gulo,Lepus_arcticus,4.230771,3.643946,CU
+Mustela_erminea,Dicrostonyx_groenlandicus,2.077004,1.735599,CU
+Vulpes_lagopus,Lepus_arcticus,3.687324,3.643946,CU
+Vulpes_lagopus,Dicrostonyx_groenlandicus,3.687324,1.735599,CU
+Canis_lupus,Lepus_arcticus,4.507631,3.643946,PN
+Canis_lupus,Dicrostonyx_groenlandicus,4.507631,1.735599,PN
+Canis_lupus,Vulpes_lagopus,4.507631,3.687324,PN
+Gulo_gulo,Dicrostonyx_groenlandicus,4.230771,1.735599,PN
+Gulo_gulo,Lepus_arcticus,4.230771,3.643946,PN
+Mustela_erminea,Dicrostonyx_groenlandicus,2.077004,1.735599,PN
+Vulpes_lagopus,Lepus_arcticus,3.687324,3.643946,PN
+Vulpes_lagopus,Dicrostonyx_groenlandicus,3.687324,1.735599,PN
+Canis_lupus,Lepus_arcticus,4.507631,3.643946,RW
+Canis_lupus,Dicrostonyx_groenlandicus,4.507631,1.735599,RW
+Canis_lupus,Vulpes_lagopus,4.507631,3.687324,RW
+Gulo_gulo,Dicrostonyx_groenlandicus,4.230771,1.735599,RW
+Gulo_gulo,Lepus_arcticus,4.230771,3.643946,RW
+Mustela_erminea,Dicrostonyx_groenlandicus,2.077004,1.735599,RW
+Vulpes_lagopus,Lepus_arcticus,3.687324,3.643946,RW
+Vulpes_lagopus,Dicrostonyx_groenlandicus,3.687324,1.735599,RW

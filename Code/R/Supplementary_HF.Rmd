@@ -1,0 +1,86 @@
+---
+title: "Supplementary_HF"
+output: html_document
+---
+
+# Human pressure in protected areas
+
+We examined the level of human pressure in protected areas (PAs) >= 5,000 km2 with strict IUCN management status I-II to investigate possible negative consequences of rewilding for human-wildlife coexistence. 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(raster)
+```
+
+```{r dummy libraries, eval=FALSE}
+library(tidyverse)
+library(raster)
+```
+
+
+```{r load data}
+d <- read_rds("../../Data/hf.rds")
+
+within_pa <- d$HF
+within_pa[is.na(d$PA)] <- NA
+outside_pa <- d$HF
+outside_pa[!is.na(d$PA)] <- NA
+
+plot(within_pa)
+plot(outside_pa)
+```
+
+```{r data preparation}
+w_PA <- values(within_pa)
+o_PA <- values(outside_pa)
+
+ans <- tibble(
+  Value = c(w_PA, o_PA),
+  Case = c(rep("Within PAs", length(w_PA)),
+           rep("Outside PAs", length(o_PA)))
+) %>% 
+  filter(!is.na(Value))
+```
+
+```{r summary statistics}
+# median and median-absolute-deviation are more robust estimates than average
+# and standard error
+summ_stat <- ans %>% 
+  group_by(Case) %>% 
+  summarize(
+    `1st quantile` = quantile(Value, 0.25),
+    `2nd quantile` = quantile(Value, 0.50),
+    `3rd quantile` = quantile(Value, 0.75),
+    `4th quantile` = quantile(Value, 1),
+    Median = median(Value), 
+    MAD = mad(Value),
+    Avg = mean(Value),
+    SD = sd(Value)
+  )
+
+summ_stat
+
+wt <- wilcox.test(
+  ans %>% filter(Case == "Within PAs") %>% pull(Value),
+  ans %>% filter(Case == "Outside PAs") %>% pull(Value)
+)
+```
+
+```{r plot}
+# in base for speed
+hist(w_PA, col = rgb(1, 0.1, 0.1, 0.75), breaks = 0:50, prob = TRUE)
+hist(o_PA, col = rgb(0.1, 0.1, 0.5, 0.5), breaks = 0:50, prob = TRUE, add = TRUE)
+```
+```{r figure for manuscript}
+ans %>% 
+  ggplot() +
+  geom_boxplot(aes(Case, Value, fill = Case),
+               outlier.alpha = 0.1, show.legend = FALSE) +
+  ggsci::scale_fill_startrek() +
+  ylab("Human Footprint") +
+  xlab("") +
+  theme_classic()
+
+ggsave("../../Manuscript/Figures/Supplement_HF.png", width = 6, height = 4)
+```

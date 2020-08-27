@@ -1,0 +1,711 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"data_",
+				"data_k_fold"
+			],
+			[
+				"train",
+				"trainDataAuto"
+			],
+			[
+				"GLOBI",
+				"GLOBI_TAXON"
+			],
+			[
+				"diver",
+				"diversity_CR"
+			],
+			[
+				"VU",
+				"VU"
+			],
+			[
+				"str",
+				"String"
+			],
+			[
+				"IU",
+				"IUCN_mammals_list"
+			],
+			[
+				"pred",
+				"pred_edge"
+			],
+			[
+				"pred_ed",
+				"pred_edgefile"
+			],
+			[
+				"prey_edge",
+				"prey_edgefile"
+			],
+			[
+				"prey_ed",
+				"prey_edgefile"
+			],
+			[
+				"s",
+				"strength_plus"
+			],
+			[
+				"st",
+				"strength_minus"
+			],
+			[
+				"mega",
+				"Megastability"
+			],
+			[
+				"K",
+				"K0"
+			],
+			[
+				"log",
+				"log"
+			],
+			[
+				"MI",
+				"MI"
+			],
+			[
+				"min",
+				"min"
+			],
+			[
+				"rem",
+				"rem_list"
+			],
+			[
+				"MA",
+				"MA"
+			],
+			[
+				"set",
+				"set_ylabel"
+			],
+			[
+				"N",
+				"NAME"
+			],
+			[
+				"in",
+				"in"
+			],
+			[
+				"plt",
+				"plt"
+			],
+			[
+				"deg_",
+				"deg_out"
+			],
+			[
+				"set_yl",
+				"set_ylabel"
+			],
+			[
+				"f",
+				"forestgreen"
+			],
+			[
+				"sca",
+				"scatter"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"MASS",
+				"MASS"
+			],
+			[
+				"x",
+				"set_xscale"
+			],
+			[
+				"ratio",
+				"ratio"
+			],
+			[
+				"y",
+				"y"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.Rmd",
+			"settings":
+			{
+				"buffer_size": 19763,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.bib",
+			"settings":
+			{
+				"buffer_size": 25133,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 184.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"count",
+				"LaTeXWordCount: Word Count"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"plugn",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/emilio/Downloads/Dataset S1/Dataset S1/Phyloss_3.0/Late Quaternary Analysis/Output Data/.DS_Store",
+		"/NewSpace/PN_resampled/resample_pn.R",
+		"/home/GIT/body_size_stability/Manuscript/main.Rmd",
+		"/home/GIT/body_size_stability/Manuscript/main.bib",
+		"/home/GIT/Trophic_restoration/Manuscript/Figures/graph_figure.py",
+		"/tmp/mozilla_emilio0/Splendid_oddness_Farinia2014_V2_unified-2.csv",
+		"/home/GIT/Trophic_restoration/Code/R/WPDA_selection.R",
+		"/tmp/mozilla_emilio0/Splendid_oddness_Farinia2014_V2_unified.csv",
+		"/home/GIT/Trophic_restoration/Manuscript/main.bib",
+		"/home/GIT/Trophic_restoration/Manuscript/main.Rmd",
+		"/home/emilio/R/x86_64-pc-linux-gnu-library/3.5/wdpar/R/wdpar.rdx",
+		"/tmp/mozilla_emilio0/savedrecs.bib",
+		"/home/GIT/mixed_models/testModelDistribution_0.1/testModelDistribution/R/test_discrete_distributions.R",
+		"/home/GIT/mixed_models/testModelDistribution_0.1/testModelDistribution/R/test_poisson_model.R",
+		"/home/GIT/mixed_models/Emilio.R",
+		"/home/GIT/mixed_models/testModelDistribution_0.1/testModelDistribution/R/.*R",
+		"/home/GIT/Megalinkers/figures.R",
+		"/home/emilio/Downloads/unetbootin-linux64-661.bin",
+		"/home/emilio/Downloads/balena-etcher-electron-1.5.46-linux-x64.zip",
+		"/home/GIT/body_size_stability/Code/main.R",
+		"/home/emilio/Downloads/rufus-3.5.exe",
+		"/tmp/mozilla_emilio0/rufus-3.5.exe",
+		"/home/emilio/Downloads/maxent-kfold.R",
+		"/home/GIT/maxnet/maxent_sdm.R",
+		"/home/GIT/maxnet/k_fold_function.R",
+		"/home/GIT/maxnet/evaluate_boyce_threshold.R",
+		"/home/emilio/Desktop/Sv__Re__Ulveforsøg/ulve_data_boxplot.R",
+		"/home/emilio/Desktop/SDM_statistics.csv",
+		"/home/GIT/Trophic_restoration/Code/R/maxnet-practice.R",
+		"/home/emilio/.cache/.fr-zJa2vG/SupplementaryCode.R",
+		"/home/GIT/mixed_models/Lectures.R",
+		"/home/emilio/Downloads/COMPADRE_COMADRE_Data_Digitisation_Protocol.pdf",
+		"/home/GIT/mixed_models/Assignment2.Rmd",
+		"/run/user/1000/gvfs/smb-share:server=uni.au.dk,share=dfs/ST_Ecoinformatics/C_Write/Emilio/Replacement_500_20_table.csv",
+		"/home/GIT/body_size_stability/Results/removals5/simulation18/Acinonyx_jubatus.csv",
+		"/home/GIT/body_size_stability/Results/removals5/simulation18/Otomys_angoniensis.csv",
+		"/tmp/mozilla_emilio0/Assignments-2019-DRAFT.R",
+		"/home/GIT/body_size_stability/Manuscript/main.Rmd,",
+		"/home/GIT/body_size_stability/Manuscript/megastability.tex",
+		"/home/GIT/Trophic_restoration/Code/R/food_web.R",
+		"/home/GIT/Trophic_restoration/.git/MERGE_MSG",
+		"/tmp/mozilla_emilio0/interaction-1.csv",
+		"/tmp/mozilla_emilio0/interaction.csv",
+		"/home/GIT/Trophic_restoration/Code/GLOBI_TAXON.sh",
+		"/home/GIT/Trophic_restoration/Data/interactions/Panthera_tigris.csv",
+		"/home/GIT/Trophic_restoration/Data/interactions/Panthera_uncia.csv",
+		"/home/GIT/Trophic_restoration/Data/interactions/Panthera_",
+		"/tmp/mozilla_emilio0/maxent_1000km_buffer_50km.R",
+		"/home/GIT/Megalinkers/Manuscript/megalinkers.Rmd",
+		"/home/GIT/Trophic_restoration/Code/vulnerability.sh",
+		"/home/GIT/Trophic_restoration/Data/Food_webs/serengeti_fw_all_masses.csv",
+		"/home/emilio/Documents/Replacements.csv",
+		"/home/emilio/Desktop/NZ.csv",
+		"/home/GIT/self_regulation/self-regulation/Code/spatial_competition.py",
+		"/home/emilio/Desktop/Testing/new_phylogeny_filter.R",
+		"/home/GIT/scaling_charisma/README.md",
+		"/home/GIT/Linux/demo.tex",
+		"/home/GIT/Linux/3d_plot.py",
+		"/home/GIT/Linux/my_file.fasta",
+		"/tmp/mozilla_emilio0/emilio_megalinkers-jcs.odt",
+		"/home/GIT/body_size_stability/Code/C++/jacobian.cpp",
+		"/home/GIT/body_size_stability/Code/C++/main.cpp",
+		"/home/GIT/body_size_stability/Code/C++/mass.txt",
+		"/home/GIT/pantheria/to_susy.txt",
+		"/home/GIT/self_regulation/self-regulation/Data/pantheria_93.csv",
+		"/home/GIT/Trophic_restoration/Code/WDPA_figure.R",
+		"/home/GIT/scaling_charisma/Data/gnuplot.csv",
+		"/home/GIT/scaling_charisma/Data/3D_plot.py",
+		"/home/GIT/Megalinkers/Manuscript/bibliography.bib",
+		"/tmp/mozilla_emilio0/scopus.bib",
+		"/home/GIT/self_regulation/self-regulation/Data/pantheria_05.csv",
+		"/home/GIT/self_regulation/self-regulation/Manuscript/bibliography.bib",
+		"/home/GIT/self_regulation/self-regulation/Manuscript/main.Rmd",
+		"/home/GIT/body_size_stability/Code/analyses/top_down_controllers.R",
+		"/home/GIT/body_size_stability/Code/C++/stability",
+		"/home/GIT/body_size_stability/Code/C++/folders.cpp",
+		"/home/GIT/self_regulation/self-regulation/Code/main.R",
+		"/home/GIT/Trophic_restoration/Code/PHYLACINE_families.sh",
+		"/home/GIT/megalinkers/code_publication/final.R",
+		"/home/emilio/Desktop/Linux/examples",
+		"/home/GIT/body_size_stability/data/serengeti_fw_all_masses.csv",
+		"/home/GIT/interactions/Code/GLOBI_TAXON.sh",
+		"/home/GIT/interactions/Code/PHYLACINE_families.sh",
+		"/home/GIT/interactions/GLOBI_TAXON",
+		"/home/GIT/self_regulation/keyworkds.sh",
+		"/home/GIT/self_regulation/wos_query.txt",
+		"/home/GIT/self_regulation/self-regulation/code/home_range_regressions.R",
+		"/home/emilio/.gnuplot",
+		"/etc/cups/printers.conf",
+		"/etc/cups/printers.conf0",
+		"/home/GIT/Megalinkers/main.R",
+		"/home/GIT/self_regulation/self-regulation/Figures/Gnuplot/mortality_coefficients.gnuplot",
+		"/home/GIT/Megalinkers/statistical_analyses.R",
+		"/home/GIT/megalinkers/code_publication/clip_phylacine.R",
+		"/home/GIT/megalinkers/code_publication/effect_size.R",
+		"/home/GIT/Megalinkers/statistical_analysis.R",
+		"/home/GIT/Megalinkers/new_effect_size.R",
+		"/home/GIT/Megalinkers/Results/Mean/global_statistics.csv",
+		"/home/GIT/self_regulation/self-regulation/code/survivals_coefficients.gnuplot",
+		"/home/GIT/self_regulation/Data/pantheria.csv",
+		"/home/GIT/pantheria/mortality_rate.csv",
+		"/home/GIT/pantheria/main.R",
+		"/home/GIT/self_regulation/search",
+		"/home/GIT/megalinkers/figures/megafauna_richness.R",
+		"/home/GIT/megalinkers/figures/threatened_megafauna.R",
+		"/tmp/mozilla_emilio0/carlos.R",
+		"/home/emilio/Downloads/SI_to_scott.tex",
+		"/home/emilio/Downloads/SI_to_scott",
+		"/home/GIT/body_size_stability/data/pull_globi_web",
+		"/tmp/mozilla_emilio0/Grimm_etal_Reptile_DB_Update_2015.accdb",
+		"/home/GIT/body_size_stability/data/birds.txt",
+		"/home/emilio/Documents/WC",
+		"/home/GIT/genome/genome_length.csv",
+		"/home/GIT/Global_change/import_rasters.R",
+		"/home/GIT/megalinkers/code_publication/homerange.R",
+		"/home/emilio/Documents/extra_species.R",
+		"/home/GIT/self_regulation/self-regulation/bibliography.bib",
+		"/home/emilio/Documents/ESA_abstract_Jens-JCS.odt",
+		"/home/GIT/megalinkers/manuscript/bibliography.bib",
+		"/home/emilio/Pictures/bind_maps.sh",
+		"/home/emilio/Downloads/maxent_1500km_buffer_20km.R",
+		"/home/emilio/Downloads/maxent_1500km_buffer_20km (1).R",
+		"/home/GIT/BEHAVIOURAL-BIOLOGY-2019/Sexual-selection/eggs_hatching.csv",
+		"/home/GIT/BEHAVIOURAL-BIOLOGY-2019/Sexual-selection/eggs_produced.csv",
+		"/home/emilio/Downloads/wos.txt",
+		"/tmp/mozilla_emilio0/data_1(1).csv",
+		"/tmp/mozilla_emilio0/ULF-messekatalog-2019_WEB_ny.pdf",
+		"/tmp/mozilla_emilio0/maxent_1500km_buffer_20km.R"
+	],
+	"find":
+	{
+		"height": 59.0
+	},
+	"find_in_files":
+	{
+		"height": 144.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"segura",
+			"farina",
+			" \n",
+			"wdpa",
+			" ##",
+			"genes",
+			"martin",
+			"jones2018one",
+			"Ripple",
+			"ripple",
+			"iucn",
+			" \n",
+			"owen",
+			"wootton2016many",
+			"weak",
+			"Weak",
+			"weak",
+			"Weak",
+			"Ripple",
+			"ripple",
+			"IUCN",
+			"area",
+			"SimP",
+			"iucn2016",
+			"ford",
+			"Smith",
+			"Tang",
+			"down",
+			"train",
+			"climate",
+			"\")",
+			"climate",
+			"\n#",
+			"trainDataAuto",
+			"maxnet",
+			"get_pars_Niche",
+			"pars_Niche",
+			"pars_niche",
+			"pars_Niche",
+			"pars_niche",
+			"Bprey",
+			"quartil",
+			"CalcDeltas",
+			"plotC",
+			"estes",
+			"that",
+			"svenning201",
+			"svenning",
+			"emmers",
+			"estes",
+			"fixed",
+			"lme",
+			"lme(",
+			"lme",
+			"Tang",
+			"may",
+			"damuth",
+			"2015",
+			"similar",
+			" \n",
+			"bask",
+			"devis",
+			"\\[\\w",
+			"\"d\"",
+			"\\[c",
+			"pars",
+			"OR10",
+			"|",
+			"---------------&----------&----------&---------&---------\\\\",
+			"|",
+			"continents",
+			"In",
+			"fragme",
+			"wood",
+			"forest",
+			"|",
+			"]",
+			"[@",
+			"cupreus",
+			"68",
+			"same",
+			"challenges in the",
+			"challenges",
+			"schef",
+			"brown",
+			"\\(",
+			"\\(2365 \\| 1274\\)",
+			"\\(986 \\| 1243\\)",
+			"\\(986 | 1243\\)",
+			"\\(986 \\| 1243\\)",
+			"(986 | 1243)",
+			"|",
+			"(",
+			"|",
+			"r_base",
+			"declare",
+			"plot_",
+			"cowplot",
+			"plot_gr",
+			"ratio <- function(x, y, global = T, area = 'World'){\n  cont.name <- c('Asia', 'North America', 'Europe', 'Africa', 'South America', 'Oceania')\n  if(global == F){\n    cont.value <- which(cont.name == area)\n    clipped.continent <- clamp(continents, lower = cont.value, upper = cont.value, useValues = F) / cont.value\n    x <- mask(x, clipped.continent)\n    y <- mask(y, clipped.continent)\n  }\n  r <- x - y\n  return(tibble(`ratio` = mean(values(r), na.rm = T), `std` = sd(values(r), na.rm = T)))\n}",
+			"g",
+			"three",
+			"two",
+			"one",
+			"third",
+			" \n",
+			"jetz",
+			"animal space use",
+			"Jetz",
+			"ecology",
+			"TI",
+			"AB",
+			"raster",
+			"\\d, \\d,",
+			"\\\\[a-z]+\\*{[a-z]+}",
+			"\\\\[a-z]+{[a-z]+}",
+			"\\\\cite{[a-z]+[0-9]+[a-z]+}",
+			"bst",
+			"\\t",
+			" - ",
+			" America",
+			" - ",
+			"Africa",
+			"Max",
+			"Mean",
+			"Eldata",
+			"\\n\\d\\n",
+			" ,"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": true,
+		"replace_history":
+		[
+			"&",
+			"}",
+			"\\cite{",
+			"1819.5",
+			"1114.5",
+			"polynomial",
+			"third",
+			"second",
+			"first",
+			"\\$, \\$\\n",
+			"$, $\\n",
+			"\\d, \\d,\\n",
+			"",
+			"[a-z]+[0-9]+[a-z]+",
+			",",
+			"-",
+			"_America",
+			"-",
+			"Oceania",
+			"South America",
+			"North America",
+			"Europe",
+			"Asia",
+			"Mean",
+			"Max",
+			"",
+			",",
+			"",
+			"}\n}\n",
+			"\n@",
+			"\\n @",
+			",",
+			" ",
+			"",
+			"_",
+			".",
+			",",
+			" ",
+			"",
+			")",
+			"c(",
+			"",
+			":",
+			"",
+			":0:",
+			"",
+			"1234",
+			"",
+			"c(",
+			"),",
+			"marginnote",
+			"marginpar",
+			"textbf{\\footnotesize{",
+			"textbf"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.Rmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19763,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10511,
+								10511
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1259.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.bib",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24852,
+								24852
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/Bibtex.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 25584.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 46.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 229.0
+	},
+	"pinned_build_system": "",
+	"project": "manuscript.sublime-project",
+	"replace":
+	{
+		"height": 88.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,3153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 576.00 576.00"
+   version="1.1"
+   id="svg931"
+   sodipodi:docname="result2.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata935">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="978"
+     id="namedview933"
+     showgrid="false"
+     inkscape:zoom="1.1588694"
+     inkscape:cx="268.20524"
+     inkscape:cy="268.95954"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg931" />
+  <defs
+     id="defs4">
+    <style
+       type="text/css"
+       id="style2"><![CDATA[
+    line, polyline, polygon, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+    <clipPath
+       id="cpMC4wMHw1NzYuMDB8NDMyLjAwfDAuMDA=-36">
+      <rect
+         x="0"
+         y="0"
+         width="576"
+         height="432"
+         id="rect63-36" />
+    </clipPath>
+    <clipPath
+       id="clipPath7037">
+      <rect
+         x="0"
+         y="0"
+         width="576"
+         height="432"
+         id="rect7035" />
+    </clipPath>
+    <clipPath
+       id="clipPath7041">
+      <rect
+         x="0"
+         y="0"
+         width="576"
+         height="432"
+         id="rect7039" />
+    </clipPath>
+    <clipPath
+       id="cpMC4wMHw1NzYuMDB8NDMyLjAwfDAuMDA=-6">
+      <rect
+         x="0"
+         y="0"
+         width="576"
+         height="432"
+         id="rect63-2" />
+    </clipPath>
+    <clipPath
+       id="cpMC4wMHw1NzYuMDB8NDMyLjAwfDAuMDA=-6-6">
+      <rect
+         x="0"
+         y="0"
+         width="576"
+         height="432"
+         id="rect63-2-0" />
+    </clipPath>
+    <clipPath
+       id="clipPath7049">
+      <rect
+         x="0"
+         y="0"
+         width="576"
+         height="432"
+         id="rect7047" />
+    </clipPath>
+    <clipPath
+       id="clipPath7053">
+      <rect
+         x="0"
+         y="0"
+         width="576"
+         height="432"
+         id="rect7051" />
+    </clipPath>
+    <clipPath
+       id="cpMC4wMHw1NzYuMDB8NDMyLjAwfDAuMDA=-3">
+      <rect
+         x="0"
+         y="0"
+         width="576"
+         height="432"
+         id="rect63-6" />
+    </clipPath>
+    <clipPath
+       id="cpMC4wMHw1NzYuMDB8NDMyLjAwfDAuMDA=-5">
+      <rect
+         x="0"
+         y="0"
+         width="576"
+         height="432"
+         id="rect63-3" />
+    </clipPath>
+    <clipPath
+       id="clipPath7061">
+      <rect
+         x="0"
+         y="0"
+         width="576"
+         height="432"
+         id="rect7059" />
+    </clipPath>
+  </defs>
+  <rect
+     width="100%"
+     height="100%"
+     style="stroke: none; fill: #FFFFFF;"
+     id="rect6"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <defs
+     id="defs13">
+    <clipPath
+       id="cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==">
+      <rect
+         x="81.70"
+         y="41.04"
+         width="241.67"
+         height="87.51"
+         id="rect10" />
+    </clipPath>
+  </defs>
+  <polyline
+     points="216.63,110.77 216.63,106.67 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="polyline15"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="216.63,108.72 103.90,108.72 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="polyline17"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="103.90,110.77 103.90,106.67 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="polyline19"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="210.03,117.61 210.03,113.51 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="polyline21"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="210.03,115.56 108.84,115.56 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="polyline23"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="108.84,117.61 108.84,113.51 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="polyline25"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="150.51,83.43 150.51,79.32 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="polyline27"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="150.51,81.37 96.20,81.37 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="polyline29"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="96.20,83.43 96.20,79.32 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="polyline31"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="111.57,90.26 111.57,86.16 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="polyline33"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="111.57,88.21 92.68,88.21 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="polyline35"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="92.68,90.26 92.68,86.16 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="polyline37"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="312.38,56.08 312.38,51.98 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="polyline39"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="312.38,54.03 115.06,54.03 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="polyline41"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="115.06,56.08 115.06,51.98 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="polyline43"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="301.08,62.92 301.08,58.81 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="polyline45"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="301.08,60.86 123.79,60.86 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="polyline47"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="123.79,62.92 123.79,58.81 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="polyline49"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="132.52"
+     cy="108.72"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #0B775E; fill: #0B775E;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="circle51"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="137.94"
+     cy="115.56"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #0B775E; fill: #FFFFFF;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="circle53"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="109.95"
+     cy="81.37"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #F2300F; fill: #F2300F;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="circle55"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="98.05"
+     cy="88.21"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #F2300F; fill: #FFFFFF;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="circle57"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="165.20"
+     cy="54.03"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #35274A; fill: #35274A;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="circle59"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="174.83"
+     cy="60.86"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #35274A; fill: #FFFFFF;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDEyOC41NXw0MS4wNA==)"
+     id="circle61"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <defs
+     id="defs66">
+    <clipPath
+       id="cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="576.00"
+         height="576.00"
+         id="rect63" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs71">
+    <clipPath
+       id="cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=">
+      <rect
+         x="81.70"
+         y="166.26"
+         width="241.67"
+         height="87.51"
+         id="rect68" />
+    </clipPath>
+  </defs>
+  <polyline
+     points="209.33,235.99 209.33,231.89 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="polyline73"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="209.33,233.94 102.63,233.94 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="polyline75"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="102.63,235.99 102.63,231.89 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="polyline77"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="192.61,242.83 192.61,238.72 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="polyline79"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="192.61,240.77 105.62,240.77 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="polyline81"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="105.62,242.83 105.62,238.72 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="polyline83"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="140.95,208.64 140.95,204.54 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="polyline85"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="140.95,206.59 94.65,206.59 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="polyline87"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="94.65,208.64 94.65,204.54 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="polyline89"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="113.87,215.48 113.87,211.38 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="polyline91"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="113.87,213.43 92.68,213.43 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="polyline93"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="92.68,215.48 92.68,211.38 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="polyline95"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="312.38,181.30 312.38,177.19 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="polyline97"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="312.38,179.25 114.65,179.25 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="polyline99"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="114.65,181.30 114.65,177.19 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="polyline101"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="283.96,188.13 283.96,184.03 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="polyline103"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="283.96,186.08 120.64,186.08 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="polyline105"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="120.64,188.13 120.64,184.03 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="polyline107"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="129.78"
+     cy="233.94"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #0B775E; fill: #0B775E;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="circle109"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="130.70"
+     cy="240.77"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #0B775E; fill: #FFFFFF;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="circle111"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="106.42"
+     cy="206.59"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #F2300F; fill: #F2300F;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="circle113"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="98.78"
+     cy="213.43"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #F2300F; fill: #FFFFFF;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="circle115"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="164.97"
+     cy="179.25"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #35274A; fill: #35274A;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="circle117"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="167.74"
+     cy="186.08"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #35274A; fill: #FFFFFF;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI1My43NnwxNjYuMjY=)"
+     id="circle119"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <defs
+     id="defs125">
+    <clipPath
+       id="clipPath123">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="576.00"
+         height="576.00"
+         id="rect121" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs130">
+    <clipPath
+       id="cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=">
+      <rect
+         x="81.70"
+         y="291.47"
+         width="241.67"
+         height="87.51"
+         id="rect127" />
+    </clipPath>
+  </defs>
+  <polyline
+     points="194.34,361.21 194.34,357.10 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="polyline132"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="194.34,359.16 97.91,359.16 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="polyline134"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="97.91,361.21 97.91,357.10 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="polyline136"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="179.10,368.04 179.10,363.94 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="polyline138"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="179.10,365.99 100.47,365.99 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="polyline140"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="100.47,368.04 100.47,363.94 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="polyline142"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="175.21,333.86 175.21,329.76 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="polyline144"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="175.21,331.81 95.69,331.81 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="polyline146"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="95.69,333.86 95.69,329.76 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="polyline148"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="131.43,340.70 131.43,336.59 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="polyline150"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="131.43,338.65 92.68,338.65 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="polyline152"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="92.68,340.70 92.68,336.59 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="polyline154"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="312.38,306.51 312.38,302.41 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="polyline156"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="312.38,304.46 111.66,304.46 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="polyline158"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="111.66,306.51 111.66,302.41 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="polyline160"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="260.19,313.35 260.19,309.25 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="polyline162"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="260.19,311.30 113.75,311.30 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="polyline164"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="113.75,313.35 113.75,309.25 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="polyline166"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="122.36"
+     cy="359.16"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #0B775E; fill: #0B775E;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="circle168"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="123.01"
+     cy="365.99"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #0B775E; fill: #FFFFFF;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="circle170"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="115.83"
+     cy="331.81"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #F2300F; fill: #F2300F;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="circle172"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="103.74"
+     cy="338.65"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #F2300F; fill: #FFFFFF;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="circle174"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="162.64"
+     cy="304.46"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #35274A; fill: #35274A;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="circle176"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="155.82"
+     cy="311.30"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #35274A; fill: #FFFFFF;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDM3OC45OHwyOTEuNDc=)"
+     id="circle178"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <defs
+     id="defs184">
+    <clipPath
+       id="clipPath182">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="576.00"
+         height="576.00"
+         id="rect180" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs189">
+    <clipPath
+       id="cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=">
+      <rect
+         x="81.70"
+         y="416.69"
+         width="241.67"
+         height="87.51"
+         id="rect186" />
+    </clipPath>
+  </defs>
+  <polyline
+     points="285.47,486.42 285.47,482.32 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="polyline191"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="285.47,484.37 100.73,484.37 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="polyline193"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="100.73,486.42 100.73,482.32 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="polyline195"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="249.61,493.26 249.61,489.16 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="polyline197"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="249.61,491.21 104.81,491.21 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="polyline199"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="104.81,493.26 104.81,489.16 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="polyline201"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="258.21,459.08 258.21,454.98 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="polyline203"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="258.21,457.03 97.55,457.03 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="polyline205"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="97.55,459.08 97.55,454.98 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="polyline207"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="175.93,465.91 175.93,461.81 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="polyline209"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="175.93,463.86 92.68,463.86 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="polyline211"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="92.68,465.91 92.68,461.81 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="polyline213"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="312.38,431.73 312.38,427.63 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="polyline215"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="312.38,429.68 103.88,429.68 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="polyline217"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="103.88,431.73 103.88,427.63 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="polyline219"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="265.60,438.57 265.60,434.47 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="polyline221"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="265.60,436.52 107.44,436.52 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="polyline223"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="107.44,438.57 107.44,434.47 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="polyline225"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="147.78"
+     cy="484.37"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #0B775E; fill: #0B775E;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="circle227"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="146.58"
+     cy="491.21"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #0B775E; fill: #FFFFFF;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="circle229"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="138.46"
+     cy="457.03"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #F2300F; fill: #F2300F;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="circle231"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="116.70"
+     cy="463.86"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #F2300F; fill: #FFFFFF;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="circle233"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="156.98"
+     cy="429.68"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #35274A; fill: #35274A;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="circle235"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="153.07"
+     cy="436.52"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #35274A; fill: #FFFFFF;"
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDUwNC4yMHw0MTYuNjk=)"
+     id="circle237"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <defs
+     id="defs243">
+    <clipPath
+       id="clipPath241">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="576.00"
+         height="576.00"
+         id="rect239" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs248">
+    <clipPath
+       id="cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=">
+      <rect
+         x="328.85"
+         y="41.04"
+         width="241.67"
+         height="87.51"
+         id="rect245" />
+    </clipPath>
+  </defs>
+  <polyline
+     points="405.50,110.77 405.50,106.67 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="polyline250"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="405.50,108.72 345.67,108.72 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="polyline252"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="345.67,110.77 345.67,106.67 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="polyline254"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="399.60,117.61 399.60,113.51 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="polyline256"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="399.60,115.56 347.90,115.56 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="polyline258"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="347.90,117.61 347.90,113.51 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="polyline260"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="370.36,83.43 370.36,79.32 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="polyline262"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="370.36,81.37 341.57,81.37 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="polyline264"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="341.57,83.43 341.57,79.32 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="polyline266"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="350.49,90.26 350.49,86.16 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="polyline268"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="350.49,88.21 339.83,88.21 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="polyline270"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="339.83,90.26 339.83,86.16 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="polyline272"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="559.54,56.08 559.54,51.98 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="polyline274"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="559.54,54.03 363.63,54.03 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="polyline276"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="363.63,56.08 363.63,51.98 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="polyline278"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="518.78,62.92 518.78,58.81 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="polyline280"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="518.78,60.86 367.48,60.86 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="polyline282"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="367.48,62.92 367.48,58.81 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="polyline284"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="360.86"
+     cy="108.72"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #0B775E; fill: #0B775E;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="circle286"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="362.77"
+     cy="115.56"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #0B775E; fill: #FFFFFF;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="circle288"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="348.87"
+     cy="81.37"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #F2300F; fill: #F2300F;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="circle290"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="342.87"
+     cy="88.21"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #F2300F; fill: #FFFFFF;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="circle292"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="413.47"
+     cy="54.03"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #35274A; fill: #35274A;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="circle294"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="411.08"
+     cy="60.86"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #35274A; fill: #FFFFFF;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxMjguNTV8NDEuMDQ=)"
+     id="circle296"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <defs
+     id="defs302">
+    <clipPath
+       id="clipPath300">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="576.00"
+         height="576.00"
+         id="rect298" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs307">
+    <clipPath
+       id="cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2">
+      <rect
+         x="328.85"
+         y="166.26"
+         width="241.67"
+         height="87.51"
+         id="rect304" />
+    </clipPath>
+  </defs>
+  <polyline
+     points="462.93,235.99 462.93,231.89 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="polyline309"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="462.93,233.94 350.57,233.94 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="polyline311"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="350.57,235.99 350.57,231.89 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="polyline313"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="437.10,242.83 437.10,238.72 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="polyline315"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="437.10,240.77 352.38,240.77 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="polyline317"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="352.38,242.83 352.38,238.72 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="polyline319"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="396.20,208.64 396.20,204.54 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="polyline321"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="396.20,206.59 342.78,206.59 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="polyline323"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="342.78,208.64 342.78,204.54 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="polyline325"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="360.81,215.48 360.81,211.38 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="polyline327"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="360.81,213.43 339.83,213.43 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="polyline329"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="339.83,215.48 339.83,211.38 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="polyline331"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="559.54,181.30 559.54,177.19 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="polyline333"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="559.54,179.25 361.85,179.25 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="polyline335"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="361.85,181.30 361.85,177.19 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="polyline337"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="518.65,188.13 518.65,184.03 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="polyline339"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="518.65,186.08 365.79,186.08 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="polyline341"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="365.79,188.13 365.79,184.03 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="polyline343"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="379.17"
+     cy="233.94"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #0B775E; fill: #0B775E;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="circle345"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="376.81"
+     cy="240.77"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #0B775E; fill: #FFFFFF;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="circle347"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="356.37"
+     cy="206.59"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #F2300F; fill: #F2300F;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="circle349"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="345.87"
+     cy="213.43"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #F2300F; fill: #FFFFFF;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="circle351"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="412.18"
+     cy="179.25"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #35274A; fill: #35274A;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="circle353"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="409.88"
+     cy="186.08"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #35274A; fill: #FFFFFF;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyNTMuNzZ8MTY2LjI2)"
+     id="circle355"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <defs
+     id="defs361">
+    <clipPath
+       id="clipPath359">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="576.00"
+         height="576.00"
+         id="rect357" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs366">
+    <clipPath
+       id="cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3">
+      <rect
+         x="328.85"
+         y="291.47"
+         width="241.67"
+         height="87.51"
+         id="rect363" />
+    </clipPath>
+  </defs>
+  <polyline
+     points="529.69,361.21 529.69,357.10 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="polyline368"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="529.69,359.16 348.81,359.16 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="polyline370"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="348.81,361.21 348.81,357.10 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="polyline372"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="526.82,368.04 526.82,363.94 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="polyline374"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="526.82,365.99 358.10,365.99 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="polyline376"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="358.10,368.04 358.10,363.94 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="polyline378"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="480.87,333.86 480.87,329.76 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="polyline380"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="480.87,331.81 343.11,331.81 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="polyline382"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="343.11,333.86 343.11,329.76 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="polyline384"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="415.78,340.70 415.78,336.59 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="polyline386"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="415.78,338.65 339.83,338.65 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="polyline388"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="339.83,340.70 339.83,336.59 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="polyline390"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="559.54,306.51 559.54,302.41 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="polyline392"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="559.54,304.46 352.30,304.46 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="polyline394"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="352.30,306.51 352.30,302.41 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="polyline396"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="545.36,313.35 545.36,309.25 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="polyline398"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="545.36,311.30 361.15,311.30 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="polyline400"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="361.15,313.35 361.15,309.25 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="polyline402"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="394.87"
+     cy="359.16"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #0B775E; fill: #0B775E;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="circle404"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="406.77"
+     cy="365.99"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #0B775E; fill: #FFFFFF;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="circle406"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="378.18"
+     cy="331.81"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #F2300F; fill: #F2300F;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="circle408"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="361.73"
+     cy="338.65"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #F2300F; fill: #FFFFFF;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="circle410"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="405.07"
+     cy="304.46"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #35274A; fill: #35274A;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="circle412"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="414.29"
+     cy="311.30"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #35274A; fill: #FFFFFF;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwzNzguOTh8MjkxLjQ3)"
+     id="circle414"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <defs
+     id="defs420">
+    <clipPath
+       id="clipPath418">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="576.00"
+         height="576.00"
+         id="rect416" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs425">
+    <clipPath
+       id="cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5">
+      <rect
+         x="328.85"
+         y="416.69"
+         width="241.67"
+         height="87.51"
+         id="rect422" />
+    </clipPath>
+  </defs>
+  <polyline
+     points="555.42,486.42 555.42,482.32 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="polyline427"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="555.42,484.37 342.62,484.37 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="polyline429"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="342.62,486.42 342.62,482.32 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="polyline431"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="487.77,493.26 487.77,489.16 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="polyline433"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="487.77,491.21 343.00,491.21 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="polyline435"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="343.00,493.26 343.00,489.16 "
+     style="stroke-width: 1.07; stroke: #0B775E; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="polyline437"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="540.41,459.08 540.41,454.98 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="polyline439"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="540.41,457.03 340.86,457.03 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="polyline441"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="340.86,459.08 340.86,454.98 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="polyline443"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="468.56,465.91 468.56,461.81 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="polyline445"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="468.56,463.86 339.83,463.86 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="polyline447"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="339.83,465.91 339.83,461.81 "
+     style="stroke-width: 1.07; stroke: #F2300F; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="polyline449"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="559.54,431.73 559.54,427.63 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="polyline451"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="559.54,429.68 343.10,429.68 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="polyline453"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="343.10,431.73 343.10,427.63 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="polyline455"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="492.24,438.57 492.24,434.47 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="polyline457"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="492.24,436.52 343.74,436.52 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="polyline459"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="343.74,438.57 343.74,434.47 "
+     style="stroke-width: 1.07; stroke: #35274A; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="polyline461"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="396.84"
+     cy="484.37"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #0B775E; fill: #0B775E;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="circle463"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="384.80"
+     cy="491.21"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #0B775E; fill: #FFFFFF;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="circle465"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="391.71"
+     cy="457.03"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #F2300F; fill: #F2300F;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="circle467"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="377.00"
+     cy="463.86"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #F2300F; fill: #FFFFFF;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="circle469"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="398.25"
+     cy="429.68"
+     r="1.30pt"
+     style="stroke-width: 0.71; stroke: #35274A; fill: #35274A;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="circle471"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <circle
+     cx="386.62"
+     cy="436.52"
+     r="1.95pt"
+     style="stroke-width: 0.71; stroke: #35274A; fill: #FFFFFF;"
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw1MDQuMjB8NDE2LjY5)"
+     id="circle473"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <defs
+     id="defs479">
+    <clipPath
+       id="clipPath477">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="576.00"
+         height="576.00"
+         id="rect475" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs484">
+    <clipPath
+       id="cpODEuNzB8MzIzLjM3fDQxNi42OXwzOTguNjY=">
+      <rect
+         x="81.70"
+         y="398.66"
+         width="241.67"
+         height="18.03"
+         id="rect481" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDQxNi42OXwzOTguNjY=)"
+     id="g488"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="114.16"
+       y="411.25"
+       style="font-size: 10.00px; font-weight: bold; fill: #1A1A1A; font-family: Arial;"
+       textLength="176.74px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text486">Small herbivores → Large carnivores</text>
+  </g>
+  <defs
+     id="defs494">
+    <clipPath
+       id="clipPath492">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="576.00"
+         height="576.00"
+         id="rect490" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs499">
+    <clipPath
+       id="cpMzI4Ljg1fDU3MC41Mnw0MTYuNjl8Mzk4LjY2">
+      <rect
+         x="328.85"
+         y="398.66"
+         width="241.67"
+         height="18.03"
+         id="rect496" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw0MTYuNjl8Mzk4LjY2)"
+     id="g503"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="361.59"
+       y="411.25"
+       style="font-size: 10.00px; font-weight: bold; fill: #1A1A1A; font-family: Arial;"
+       textLength="176.19px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text501">Small herbivores → Small carnivores</text>
+  </g>
+  <defs
+     id="defs509">
+    <clipPath
+       id="clipPath507">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="576.00"
+         height="576.00"
+         id="rect505" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs514">
+    <clipPath
+       id="cpODEuNzB8MzIzLjM3fDI5MS40N3wyNzMuNDQ=">
+      <rect
+         x="81.70"
+         y="273.44"
+         width="241.67"
+         height="18.03"
+         id="rect511" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDI5MS40N3wyNzMuNDQ=)"
+     id="g518"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="113.89"
+       y="286.03"
+       style="font-size: 10.00px; font-weight: bold; fill: #1A1A1A; font-family: Arial;"
+       textLength="177.29px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text516">Large herbivores → Large carnivores</text>
+  </g>
+  <defs
+     id="defs524">
+    <clipPath
+       id="clipPath522">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="576.00"
+         height="576.00"
+         id="rect520" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs529">
+    <clipPath
+       id="cpMzI4Ljg1fDU3MC41MnwyOTEuNDd8MjczLjQ0">
+      <rect
+         x="328.85"
+         y="273.44"
+         width="241.67"
+         height="18.03"
+         id="rect526" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwyOTEuNDd8MjczLjQ0)"
+     id="g533"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="361.59"
+       y="286.03"
+       style="font-size: 10.00px; font-weight: bold; fill: #1A1A1A; font-family: Arial;"
+       textLength="176.20px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text531">Small carnivores → Large carnivores</text>
+  </g>
+  <defs
+     id="defs539">
+    <clipPath
+       id="clipPath537">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="576.00"
+         height="576.00"
+         id="rect535" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs544">
+    <clipPath
+       id="cpODEuNzB8MzIzLjM3fDE2Ni4yNnwxNDguMjI=">
+      <rect
+         x="81.70"
+         y="148.22"
+         width="241.67"
+         height="18.03"
+         id="rect541" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDE2Ni4yNnwxNDguMjI=)"
+     id="g548"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="116.66"
+       y="160.82"
+       style="font-size: 10.00px; font-weight: bold; fill: #1A1A1A; font-family: Arial;"
+       textLength="171.75px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text546">Small carnivores → Megacarnivores</text>
+  </g>
+  <defs
+     id="defs554">
+    <clipPath
+       id="clipPath552">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="576.00"
+         height="576.00"
+         id="rect550" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs559">
+    <clipPath
+       id="cpMzI4Ljg1fDU3MC41MnwxNjYuMjZ8MTQ4LjIy">
+      <rect
+         x="328.85"
+         y="148.22"
+         width="241.67"
+         height="18.03"
+         id="rect556" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMzI4Ljg1fDU3MC41MnwxNjYuMjZ8MTQ4LjIy)"
+     id="g563"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="363.54"
+       y="160.82"
+       style="font-size: 10.00px; font-weight: bold; fill: #1A1A1A; font-family: Arial;"
+       textLength="172.29px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text561">Small herbivores → Megacarnivores</text>
+  </g>
+  <defs
+     id="defs569">
+    <clipPath
+       id="clipPath567">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="576.00"
+         height="576.00"
+         id="rect565" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs574">
+    <clipPath
+       id="cpODEuNzB8MzIzLjM3fDQxLjA0fDIzLjAx">
+      <rect
+         x="81.70"
+         y="23.01"
+         width="241.67"
+         height="18.03"
+         id="rect571" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpODEuNzB8MzIzLjM3fDQxLjA0fDIzLjAx)"
+     id="g578"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="116.38"
+       y="35.60"
+       style="font-size: 10.00px; font-weight: bold; fill: #1A1A1A; font-family: Arial;"
+       textLength="172.30px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text576">Large carnivores → Megacarnivores</text>
+  </g>
+  <defs
+     id="defs584">
+    <clipPath
+       id="clipPath582">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="576.00"
+         height="576.00"
+         id="rect580" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs589">
+    <clipPath
+       id="cpMzI4Ljg1fDU3MC41Mnw0MS4wNHwyMy4wMQ==">
+      <rect
+         x="328.85"
+         y="23.01"
+         width="241.67"
+         height="18.03"
+         id="rect586" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMzI4Ljg1fDU3MC41Mnw0MS4wNHwyMy4wMQ==)"
+     id="g593"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="363.26"
+       y="35.60"
+       style="font-size: 10.00px; font-weight: bold; fill: #1A1A1A; font-family: Arial;"
+       textLength="172.85px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text591">Large herbivores → Megacarnivores</text>
+  </g>
+  <defs
+     id="defs599">
+    <clipPath
+       id="clipPath597">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="576.00"
+         height="576.00"
+         id="rect595" />
+    </clipPath>
+  </defs>
+  <polyline
+     points="81.70,504.20 323.37,504.20 "
+     style="stroke-width: 1.07; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline601"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="142.89,506.94 142.89,504.20 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline603"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="209.48,506.94 209.48,504.20 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline605"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="276.07,506.94 276.07,504.20 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline607"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g611"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="137.33"
+       y="516.29"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="11.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text609">25</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g615"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="203.92"
+       y="516.29"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="11.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text613">50</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g619"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="270.51"
+       y="516.29"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="11.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text617">75</text>
+  </g>
+  <polyline
+     points="328.85,504.20 570.52,504.20 "
+     style="stroke-width: 1.07; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline621"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="383.46,506.94 383.46,504.20 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline623"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="452.49,506.94 452.49,504.20 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline625"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="521.51,506.94 521.51,504.20 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline627"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g631"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="375.12"
+       y="516.29"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="16.68px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text629">100</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g635"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="444.14"
+       y="516.29"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="16.68px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text633">200</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g639"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="513.17"
+       y="516.29"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="16.68px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text637">300</text>
+  </g>
+  <polyline
+     points="81.70,378.98 323.37,378.98 "
+     style="stroke-width: 1.07; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline641"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="85.34,381.72 85.34,378.98 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline643"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="154.89,381.72 154.89,378.98 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline645"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="224.45,381.72 224.45,378.98 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline647"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="294.01,381.72 294.01,378.98 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline649"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g653"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="82.56"
+       y="391.07"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="5.56px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text651">0</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g657"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="152.11"
+       y="391.07"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="5.56px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text655">2</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g661"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="221.67"
+       y="391.07"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="5.56px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text659">4</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g665"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="291.22"
+       y="391.07"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="5.56px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text663">6</text>
+  </g>
+  <polyline
+     points="328.85,378.98 570.52,378.98 "
+     style="stroke-width: 1.07; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline667"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="389.83,381.72 389.83,378.98 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline669"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="454.73,381.72 454.73,378.98 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline671"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="519.63,381.72 519.63,378.98 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline673"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g677"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="384.26"
+       y="391.07"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="11.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text675">10</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g681"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="449.17"
+       y="391.07"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="11.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text679">20</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g685"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="514.07"
+       y="391.07"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="11.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text683">30</text>
+  </g>
+  <polyline
+     points="81.70,253.76 323.37,253.76 "
+     style="stroke-width: 1.07; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline687"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="88.55,256.50 88.55,253.76 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline689"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="157.31,256.50 157.31,253.76 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline691"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="226.07,256.50 226.07,253.76 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline693"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="294.83,256.50 294.83,253.76 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline695"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g699"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="85.77"
+       y="265.85"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="5.56px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text697">0</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g703"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="151.75"
+       y="265.85"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="11.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text701">10</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g707"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="220.51"
+       y="265.85"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="11.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text705">20</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g711"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="289.27"
+       y="265.85"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="11.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text709">30</text>
+  </g>
+  <polyline
+     points="328.85,253.76 570.52,253.76 "
+     style="stroke-width: 1.07; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline713"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="335.73,256.50 335.73,253.76 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline715"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="378.99,256.50 378.99,253.76 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline717"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="422.24,256.50 422.24,253.76 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline719"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="465.50,256.50 465.50,253.76 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline721"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="508.75,256.50 508.75,253.76 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline723"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="552.00,256.50 552.00,253.76 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline725"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g729"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="332.95"
+       y="265.85"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="5.56px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text727">0</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g733"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="373.43"
+       y="265.85"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="11.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text731">10</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g737"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="416.68"
+       y="265.85"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="11.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text735">20</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g741"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="459.93"
+       y="265.85"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="11.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text739">30</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g745"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="503.19"
+       y="265.85"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="11.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text743">40</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g749"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="546.44"
+       y="265.85"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="11.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text747">50</text>
+  </g>
+  <polyline
+     points="81.70,128.55 323.37,128.55 "
+     style="stroke-width: 1.07; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline751"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="89.14,131.29 89.14,128.55 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline753"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="154.40,131.29 154.40,128.55 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline755"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="219.65,131.29 219.65,128.55 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline757"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="284.91,131.29 284.91,128.55 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline759"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g763"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="86.36"
+       y="140.63"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="5.56px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text761">0</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g767"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="151.62"
+       y="140.63"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="5.56px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text765">2</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g771"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="216.87"
+       y="140.63"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="5.56px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text769">4</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g775"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="282.13"
+       y="140.63"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="5.56px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text773">6</text>
+  </g>
+  <polyline
+     points="328.85,128.55 570.52,128.55 "
+     style="stroke-width: 1.07; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline777"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="337.82,131.29 337.82,128.55 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline779"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="411.56,131.29 411.56,128.55 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline781"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="485.30,131.29 485.30,128.55 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline783"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="559.04,131.29 559.04,128.55 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline785"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g789"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="335.04"
+       y="140.63"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="5.56px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text787">0</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g793"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="408.78"
+       y="140.63"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="5.56px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text791">5</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g797"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="479.74"
+       y="140.63"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="11.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text795">10</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g801"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="553.48"
+       y="140.63"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="11.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text799">15</text>
+  </g>
+  <polyline
+     points="81.70,128.55 81.70,41.04 "
+     style="stroke-width: 1.07; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline803"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g807"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="33.41"
+       y="115.72"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="43.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text805">Rewilding</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g811"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="43.42"
+       y="88.37"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="33.34px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text809">Current</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g815"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="18.41"
+       y="61.02"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="58.36px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text813">No-extinction</text>
+  </g>
+  <polyline
+     points="78.96,112.14 81.70,112.14 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline817"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="78.96,84.79 81.70,84.79 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline819"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="78.96,57.45 81.70,57.45 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline821"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="81.70,253.76 81.70,166.26 "
+     style="stroke-width: 1.07; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline823"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g827"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="33.41"
+       y="240.93"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="43.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text825">Rewilding</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g831"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="43.42"
+       y="213.59"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="33.34px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text829">Current</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g835"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="18.41"
+       y="186.24"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="58.36px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text833">No-extinction</text>
+  </g>
+  <polyline
+     points="78.96,237.36 81.70,237.36 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline837"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="78.96,210.01 81.70,210.01 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline839"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="78.96,182.66 81.70,182.66 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline841"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="81.70,378.98 81.70,291.47 "
+     style="stroke-width: 1.07; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline843"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g847"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="33.41"
+       y="366.15"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="43.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text845">Rewilding</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g851"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="43.42"
+       y="338.81"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="33.34px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text849">Current</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g855"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="18.41"
+       y="311.46"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="58.36px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text853">No-extinction</text>
+  </g>
+  <polyline
+     points="78.96,362.57 81.70,362.57 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline857"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="78.96,335.23 81.70,335.23 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline859"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="78.96,307.88 81.70,307.88 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline861"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="81.70,504.20 81.70,416.69 "
+     style="stroke-width: 1.07; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline863"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g867"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="33.41"
+       y="491.37"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="43.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text865">Rewilding</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g871"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="43.42"
+       y="464.02"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="33.34px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text869">Current</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g875"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="18.41"
+       y="436.68"
+       style="font-size: 10.00px; fill: #4D4D4D; font-family: Arial;"
+       textLength="58.36px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text873">No-extinction</text>
+  </g>
+  <polyline
+     points="78.96,487.79 81.70,487.79 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline877"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="78.96,460.44 81.70,460.44 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline879"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <polyline
+     points="78.96,433.10 81.70,433.10 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="polyline881"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150" />
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NTc2LjAwfDAuMDA=)"
+     id="g885"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="270.78"
+       y="529.01"
+       style="font-size: 11.00px; font-family: Arial;"
+       textLength="110.66px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text883">Number of interactions</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHw1NzYuMDB8NDMyLjAwfDAuMDA=-36)"
+     id="g721"
+     transform="matrix(1.157625,0,0,1.157625,-112.15737,75.904356)"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <text
+       x="412.23999"
+       y="415.62"
+       style="font-size:8.80000019px;font-family:Arial"
+       textLength="59.029999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text719">Random areas</text>
+  </g>
+  <g
+     id="g5330"
+     transform="matrix(1.157625,0,0,1.157625,-51.960871,75.904356)"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       transform="translate(-60)"
+       inkscape:connector-curvature="0"
+       id="line711"
+       clip-path="url(#cpMC4wMHw1NzYuMDB8NDMyLjAwfDAuMDA=-36)"
+       d="m 391.21094,412.93555 h 5.68945 v -1.07032 h -5.68945 z m 9.47689,0.001 4.35123,-0.001 v -1.07032 l -4.36553,-0.0151 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.07000005;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:5.69, 5.69;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <circle
+       transform="translate(-60)"
+       id="circle713"
+       clip-path="url(#cpMC4wMHw1NzYuMDB8NDMyLjAwfDAuMDA=-36)"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.70999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+       r="1.95pt"
+       cy="412.39999"
+       cx="398.12" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       transform="translate(-50.820541,0.00142)"
+       inkscape:connector-curvature="0"
+       id="line711-7"
+       clip-path="url(#cpMC4wMHw1NzYuMDB8NDMyLjAwfDAuMDA=-3)"
+       d="m 391.21094,412.93555 h 5.68945 v -1.07032 h -5.68945 z m 9.47689,0.001 4.35123,-0.001 v -1.07032 l -4.36553,-0.0151 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.07000005;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:5.69, 5.69;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       transform="translate(-69.477647,0.00916553)"
+       inkscape:connector-curvature="0"
+       id="line711-5"
+       clip-path="url(#cpMC4wMHw1NzYuMDB8NDMyLjAwfDAuMDA=-5)"
+       d="m 391.21094,412.93555 h 5.68945 v -1.07032 h -5.68945 z m 9.47689,0.001 4.35123,-0.001 v -1.07032 l -4.36553,-0.0151 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.07000005;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:5.69, 5.69;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+  </g>
+  <g
+     id="g5369"
+     transform="translate(-157.99011,140.92813)"
+     inkscape:export-xdpi="150"
+     inkscape:export-ydpi="150">
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       transform="matrix(1.157625,0,0,1.157625,-199.43851,-65.023771)"
+       id="g725"
+       clip-path="url(#cpMC4wMHw1NzYuMDB8NDMyLjAwfDAuMDA=-36)">
+      <text
+         id="text723"
+         lengthAdjust="spacingAndGlyphs"
+         textLength="63.540001"
+         style="font-size:8.80000019px;font-family:Arial"
+         y="415.62"
+         x="499.51001">Protected areas</text>
+    </g>
+    <g
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       transform="matrix(1.157625,0,0,1.157625,-208.69951,-65.023771)"
+       id="g5324">
+      <line
+         x1="478.48001"
+         y1="412.39999"
+         x2="492.31"
+         y2="412.39999"
+         style="fill:none;stroke:#000000;stroke-width:1.07000005;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
+         clip-path="url(#cpMC4wMHw1NzYuMDB8NDMyLjAwfDAuMDA=-36)"
+         id="line715" />
+      <circle
+         cx="485.39001"
+         cy="412.39999"
+         r="1.66pt"
+         style="fill:#000000;stroke:#000000;stroke-width:0.70999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         clip-path="url(#cpMC4wMHw1NzYuMDB8NDMyLjAwfDAuMDA=-36)"
+         id="circle717" />
+      <line
+         transform="translate(-9.526621,0.02214559)"
+         x1="478.48001"
+         y1="412.39999"
+         x2="492.31"
+         y2="412.39999"
+         style="fill:none;stroke:#000000;stroke-width:1.07000005;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
+         clip-path="url(#cpMC4wMHw1NzYuMDB8NDMyLjAwfDAuMDA=-6)"
+         id="line715-9" />
+      <line
+         transform="translate(9.331692,0.03644673)"
+         x1="478.48001"
+         y1="412.39999"
+         x2="492.31"
+         y2="412.39999"
+         style="fill:none;stroke:#000000;stroke-width:1.07000005;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
+         clip-path="url(#cpMC4wMHw1NzYuMDB8NDMyLjAwfDAuMDA=-6-6)"
+         id="line715-9-6" />
+    </g>
+  </g>
+</svg>

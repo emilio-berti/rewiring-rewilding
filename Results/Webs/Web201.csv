@@ -1,0 +1,6 @@
+Predator,Prey,Pred Mass,Prey Mass,Scenario
+Rattus_norvegicus,Apodemus_sylvaticus,2.552303,1.4843,CU
+Vulpes_lagopus,Apodemus_sylvaticus,3.687324,1.4843,CU
+Vulpes_lagopus,Rattus_norvegicus,3.687324,2.552303,CU
+Vulpes_lagopus,Apodemus_sylvaticus,3.687324,1.4843,PN
+Vulpes_lagopus,Apodemus_sylvaticus,3.687324,1.4843,RW
