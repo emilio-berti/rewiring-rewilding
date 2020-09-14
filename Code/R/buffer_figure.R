@@ -1,3 +1,6 @@
+#' DONE
+#' Example of species-specific buffer for Ceratotherium simum
+
 library(tidyverse)
 library(raster)
 library(tmap)
@@ -7,7 +10,8 @@ taxon <- "Ceratotherium simum"
 records <- read_csv("/NewSpace/Presence_location/Ceratotherium_simum.csv") %>%
   dplyr::select(x, y)
 
-presence <- raster("/home/GIT/Trophic_restoration/Data/PHYLACINE_1.2/Data/Ranges/Current/Ceratotherium_simum.tif") + raster("/home/GIT/Trophic_restoration/Data/PHYLACINE_1.2/Data/Ranges/Present_natural/Ceratotherium_simum.tif")
+presence <- raster("/home/GIT/Trophic_restoration/Data/PHYLACINE_1.2/Data/Ranges/Current/Ceratotherium_simum.tif") + 
+  raster("/home/GIT/Trophic_restoration/Data/PHYLACINE_1.2/Data/Ranges/Present_natural/Ceratotherium_simum.tif")
 presence[presence > 1] <- 1
 presence[presence == 0] <- NA
 presence <- rasterToPolygons(presence, dissolve = T) 
@@ -44,7 +48,7 @@ ggplot() +
   geom_point(aes(x = 2505254, y = -2686016), col = "steelblue", size = 2) +
   geom_point(aes(x = 3955939, y = -1241448), col = "tomato", size = 2) +
   ggtitle(taxon) +
-  theme_map() +
+  theme_void() +
   theme(plot.title = element_text(face = 4, hjust = 0.5))
 
 ggsave("../../Manuscript/Figures/rhyno_buffer.png", width = 6, height = 6)

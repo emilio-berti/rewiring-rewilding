@@ -1,6 +1,5 @@
 find_replacements <- function(extinct, extant){
-  
-  # get ecozones where extinct would live
+  # get bioregions where extinct would live
   ecozones <- check_ecozone_presence(extinct)
   gc()
   
@@ -11,10 +10,12 @@ find_replacements <- function(extinct, extant){
     filter(`Inside range` == T) %>% 
     pull(Species)
   
-  # restict for families with many candidates to the genus level to speed up the
+  # restrict for families with many candidates to the genus level to speed up the
   # computations; too many species drains the RAM, and rasterOptions(maxmemory)
   # cannot be set below a Megabyte.
-  if((phy %>% filter(Binomial.1.2 == extinct) %>% pull(Family.1.2)) %in% c("Soricidae", "Cricetidae", "Muridae")){
+  if((phy %>% 
+      filter(Binomial.1.2 == extinct) %>% 
+      pull(Family.1.2)) %in% c("Soricidae", "Cricetidae", "Muridae")){
     cand <- phy %>% 
       filter(Genus.1.2 == strsplit(extinct, "_")[[1]][1]) %>% 
       mutate(`Inside range` = (Mass.g >= 0.5 * mass & Mass.g <= 1.5 * mass )) %>% 
@@ -63,7 +64,7 @@ find_replacements <- function(extinct, extant){
   } else if(length(cand) == 1){
     area <- rep(NA, length(ecozones))
     for(i in 1:length(ecozones)){
-      area[i] <- get_area_pn_ecozone(cand, extinct, ecozones[i])
+      area[i] <- get_rewilding_range(cand, extinct, ecozones[i])
       gc()
     }
     res <- tibble(
@@ -84,7 +85,7 @@ find_replacements <- function(extinct, extant){
     for(i in 1:length(tmp_cand)){
       ecozone <- names(tmp_cand[i])
       cand <- tmp_cand[[i]]
-      area <- sapply(cand, function(x) get_area_pn_ecozone(x, extinct, ecozone))
+      area <- sapply(cand, function(x) get_rewilding_range(x, extinct, ecozone))
       res <- res %>% 
         rbind(tibble(
           Extinct = extinct,

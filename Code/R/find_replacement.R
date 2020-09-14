@@ -1,5 +1,6 @@
+#' DELETE ?
 find_replacements <- function(extinct, candidates, family){
-  bioregions <- check_bioreg_presence(extinct$Species)
+  bioregions <- check_bioreg_presence(extinct)
   if(nrow(candidates %>% filter(Mass >= 0.5 * extinct$Mass, Mass <= 1.5 * extinct$Mass)) == 0){
     if(extinct$Mass > 1000000 & family %in% c("Gomphotheriidae", "Elephantidae", "Mammutidae", "Stegodontidae")){
       cand <- candidates %>% 
@@ -23,7 +24,7 @@ find_replacements <- function(extinct, candidates, family){
       )
     )
   } else if(length(cand) == 1){
-    area <- sapply(bioregions, function(x) get_area_pn_bioregion(cand, extinct$Species, x))
+    area <- sapply(bioregions, function(x) get_rewilding_range(cand, extinct$Species, x))
     return(
       tibble(
         Extinct = extinct$Species,
@@ -42,7 +43,7 @@ find_replacements <- function(extinct, candidates, family){
       if(any(dead_alive_co_occured)){
         cand <- cand[which(dead_alive_co_occured)]
       }
-      area <- sapply(bioregions, function(x) get_area_pn_bioregion(cand, extinct$Species, x))
+      area <- sapply(bioregions, function(x) get_rewilding_range(cand, extinct$Species, x))
       return(
         tibble(
           Extinct = extinct$Species,
@@ -68,7 +69,7 @@ find_replacements <- function(extinct, candidates, family){
         names()
       if(length(cand) > 0){
         # get area of replacements
-        area <- mapply(function(x, z) get_area_pn_bioregion(x, extinct$Species, z),
+        area <- mapply(function(x, z) get_rewilding_range(x, extinct$Species, z),
                        rep(cand, length(bioregions)),
                        rep(bioregions, each = length(bioregions)),
                        SIMPLIFY = T)

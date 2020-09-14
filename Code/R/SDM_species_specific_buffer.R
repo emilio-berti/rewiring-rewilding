@@ -1,3 +1,12 @@
+#' DONE 
+#' Main script to run Maxent SDMs. This calls all data and functions to run
+#' SDMs, save continous and binary prediction maps, and write evaluation
+#' statistics from cross-validation. 
+#' IMPORTANT: path of data is relative to the machine. Specify correct 
+#' presence location and WorldClim data folders.
+#' Author: Emilio Berti
+#' e-mail: emilio.berti.academia[@]google.com
+#' Updated: 28 August 2020
 library(maxnet) 
 library(dismo) 
 library(tidyverse)
@@ -6,23 +15,12 @@ library(ecospat)
 library(doParallel)
 library(foreach)
 
-# args <- commandArgs(trailingOnly = T)
-
 setwd("/home/GIT/Trophic_restoration/Code/R")
 
-# k_fold validation function
-source("k_fold_function.R")
-# function to evalaute the CBI threshold
-source("CBI_threshold_function.R")
-# SDM function using maxent from maxnet package
-source("maxnet_function.R")
-# import species alive and extinct names
 source("select_species.R")
-# prototyping function to get mass of species
-source("get_mass.R")
-
-#### NEW CBI - REMOVE FROM RELEASE
-source("new_cbi.R")
+source("maxnet_function.R")
+source("k_fold_function.R")
+source("CBI_threshold_function.R")
 
 # import environmental layers
 setwd("/NewSpace/Behrmann/v2/wc2.0_5km_bio")
@@ -46,10 +44,6 @@ print(paste0("Species without presence locations: ", setdiff(alive, modelled)))
 print(paste0("Species with less than 10 presence location points: ", few_points))
 sink()
 
-# done <- list.files("../Maps/Maxent/", pattern = "csv") %>% 
-#   gsub(".csv", "", .) %>% 
-#   gsub("SDM_stat_", "", .) 
-
 alive <- c(alive, "Bos_primigenius", "Camelus_dromedarius", "Oryx_dammah", "Elaphurus_davidianus")
 alive <- intersect(alive, modelled)
 alive <- setdiff(alive, few_points)
@@ -62,12 +56,15 @@ alive <- setdiff(alive, done)
 
 # parallel SDMs
 registerDoParallel(6)
-foreach(x = alive, 
-        .packages = c("raster", "dismo", "maxnet", "ecospat", "tidyverse")) %dopar% {
-          maxent_sdm(x, map_output = "/NewSpace/Maps/Maxent/")
-        } 
+foreach (x = alive,
+         .packages = c("raster", "dismo", "maxnet", "ecospat", "tidyverse")) %dopar% {
+           maxent_sdm(x, map_output = "/NewSpace/Maps/Maxent/")
+         } -> res
 stopImplicitCluster()
+
+bind_rows(res) %>% 
+  write_csv("/NewSpace/Maps/Maxent/SDM_statistics.csv")
 
 # if previous SDM_statistics.csv does not work, try this:
 # cat SDM_stat* | grep Species | uniq > SDM_statistics.csv
-# cat SDM_stat* | grep -v Species >> SDM_statistics.csv
+# cat SDM_stat_* | grep -v Species >> SDM_statistics.csv

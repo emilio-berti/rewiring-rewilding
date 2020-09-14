@@ -1,3 +1,10 @@
+#' DONE
+#' This function checks which extant and extinct species present-natural ranges
+#' overlap, i.e. which species can be considered reintroduction for rewilding.
+#' @param extant is a vector of extant species
+#' @param extinct is the extinct species
+#' @return vector of @param extant species for reintroduction - empty if
+#'   no-reintroducitons are possible.
 check_pn_overlap <- function(extant, extinct){
   require(velox)
   pn_extinct <- raster(paste0(pn_path, extinct, ".tif"))

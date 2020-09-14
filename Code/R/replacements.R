@@ -1,10 +1,14 @@
+#' DONE 
+#' Author: Emilio Berti
+#' e-mail: emilio.berti.academia[@]google.com
+#' Updated: 
 library(tidyverse)
 library(raster)
 library(foreach)
 library(doParallel)
 library(sf)
 library(fasterize)
-library(velox)
+library(velox) #to speed up normal raster calculations
 
 setwd("/home/GIT/Trophic_restoration/Code/R")
 
@@ -21,71 +25,60 @@ Sys.setenv(R_SESSION_TMPDIR = "/NewSpace/Temp_R/")
 rasterOptions(tmpdir = "/NewSpace/Temp_R/")
 
 phy <- read_csv("../../Data/PHYLACINE_1.2/Data/Traits/Trait_data.csv", col_types = cols())
-
 pn_path <- "/NewSpace/PN_resampled/5km/"
-
 clim_suit_path <- "/NewSpace/Maps/Maxent/"
-
 res_path <- "../../Results/"
 
-print(paste0("SDM suitability ranges from: ", clim_suit_path))
-print(paste0("Results in: ", res_path))
-print(paste0("Temporary R rasters in: ", "/NewSpace/Temp_R/"))
+message("SDM suitability ranges from: ", clim_suit_path)
+message("Results in: ", res_path)
+message("Temporary R rasters in: ", "/NewSpace/Temp_R/")
 
 r_template <- raster(paste0(clim_suit_path, "Acinonyx_jubatus.tif"))
-Ecozones <- st_read("../../Data/Ecozone.shp") %>% 
+Bioregions <- st_read("../../Data/Ecozone.shp") %>% 
   mutate(Name = c("Australasia", "Afrotropic", "Indomalaya", 
                   "Neartic", "Neotropic", "Oceania", "Paleartic")) %>% 
-  st_transform(st_crs(r_template)) %>% 
+  st_transform(st_crs(r_template)) %>%
   fasterize(r_template, by = "Name")
-
 # set raster memory limit
 rasterOptions(maxmemory = 150 * 10^6)
-
 # read in all families
 families <- phy %>% 
   filter(Binomial.1.2 %in% extinct,
          Family.1.2 != "Hominidae") %>%  
   pull(Family.1.2) %>% 
   unique()
-
-done <- list.files("/home/GIT/Trophic_restoration/Results/Replacements", pattern = ".csv") %>% 
+done <- list.files("/home/GIT/Trophic_restoration/Results/Replacements", 
+                   pattern = ".csv") %>% 
   gsub("_replacements.csv", "", .)
-
 families <- setdiff(families, done)
-
-done <- read_csv("/home/GIT/Trophic_restoration/Results/Replacements_Log.txt", col_type = cols(), col_names = F) %>% 
+done <- read_csv("/home/GIT/Trophic_restoration/Results/Replacements_Log.txt", 
+                 col_type = cols(),
+                 col_names = FALSE) %>% 
   pull(X1) 
-
 done <- str_extract(done, "[A-Z]\\w+") %>% unique() #get names of all taxa that failed
-
 families <- setdiff(families, done)
-
 # count species in each family
 number_species_family <- phy %>% 
   filter(Family.1.2 %in% families) %>% 
   group_by(Family.1.2) %>% 
   tally() %>% 
   arrange(n)
-
 # get species for which we have the climatic suitability layer
-clim_suit_modeled <- gsub("_MSS.tif", "", list.files(clim_suit_path, pattern = "_MSS.tif"))
-
-### Echimyidae run at the end. ######################
+clim_suit_modeled <- gsub("_MSS.tif", "", 
+                          list.files(clim_suit_path, pattern = "_MSS.tif"))
 families <- number_species_family$Family.1.2
 
-# Starting function -------------------------------------------------------
+# Starting algorithm for replacements -------------------------
 T0 <- Sys.time()
-for(fam in number_species_family$Family.1.2){
-  # fam = number_species_family$Family.1.2[2]
-  if(number_species_family$n[which(number_species_family$Family.1.2 == fam)] > 300){
+for (fam in number_species_family$Family.1.2) {
+  if (number_species_family$n[which(number_species_family$Family.1.2 == fam)] > 300) {
     # set raster memory limit
     rasterOptions(maxmemory = 10 * 10^6)
   }
   candidates <- phy %>% 
     filter(Family.1.2 == fam, Binomial.1.2 %in% alive) %>% 
     pull(Binomial.1.2)
-  if(length(candidates) == 0){
+  if (length(candidates) == 0) {
     sink("../../Results/Replacements_Log.txt", append = T)
     print(paste0(fam, " all extinct."))
     sink()
@@ -93,7 +86,7 @@ for(fam in number_species_family$Family.1.2){
   } 
   # remove species that were not modelled
   candidates <- candidates[which(candidates %in% clim_suit_modeled)]
-  if(length(candidates) == 0){
+  if (length(candidates) == 0) {
     sink("../../Results/Replacements_Log.txt", append = T)
     print(paste0(fam, " cannot be replaced: missing SDMs for some species."))
     sink()
@@ -102,7 +95,7 @@ for(fam in number_species_family$Family.1.2){
   dead <- phy %>% 
     filter(Family.1.2 == fam, Binomial.1.2 %in% extinct) %>% 
     pull(Binomial.1.2)
-  if(length(dead) == 0){
+  if (length(dead) == 0) {
     sink("../../Results/Replacements_Log.txt", append = T)
     print(paste0(fam, " all alive."))
     sink()
@@ -112,13 +105,13 @@ for(fam in number_species_family$Family.1.2){
     filter(Family.1.2 == fam, Binomial.1.2 %in% extinct) %>% 
     filter(Island.Endemicity != "Occurs only on isolated islands") %>% 
     pull(Binomial.1.2)
-  if(length(dead) == 0){
+  if (length(dead) == 0) {
     sink("../../Results/Replacements_Log.txt", append = T)
     print(paste0(fam, " extinct species occur only on isolated islands."))
     sink()
     next()
   }
-  foreach(i = dead) %do% { #possible to parallelize if enough RAM or disk space
+  foreach (i = dead) %do% { #possible to parallelize if enough RAM or disk space
     find_replacements(i, candidates)
   } -> family_results
   # get best replacements

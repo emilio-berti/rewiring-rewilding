@@ -1,5 +1,6 @@
-if(!"phy" %in% ls()){
-  phy <- read_csv("../../Data/PHYLACINE_1.2/Data/Traits/Trait_data.csv", col_types = cols())
+if (!"phy" %in% ls()) {
+  phy <- read_csv("https://raw.githubusercontent.com/MegaPast2Future/PHYLACINE_1.2/master/Data/Traits/Trait_data.csv",
+  col_types = cols())
 }
 
 get_mass <- function(x){

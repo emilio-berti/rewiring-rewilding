@@ -1,10 +1,16 @@
-# This script select alive species to model and extinct species for which we are
-# looking for replacements: 'alive' and 'extinct'
+#' DONE
+#' #' This script select alive species to model and extinct species for which we
+#' are looking for replacements: 'alive' and 'extinct'
 
-# Select all species from marine families
-marine_families <- c("Balaenidae", "Balaenopteridae", "Delphinidae", "Dugongidae", "Eschrichtiidae", "Iniidae", "Monodontidae", "Neobalaenidae", "Odobenidae", "Otariidae", "Phocidae", "Phocoenidae", "Physeteridae", "Platanistidae", "Trichechidae", "Ziphiidae")
+# Select all species from marine and aquatic families
+marine_families <- c("Balaenidae", "Balaenopteridae", "Delphinidae", 
+                     "Dugongidae", "Eschrichtiidae", "Iniidae", 
+                     "Monodontidae", "Neobalaenidae", "Odobenidae", 
+                     "Otariidae", "Phocidae", "Phocoenidae", "Physeteridae", 
+                     "Platanistidae", "Trichechidae", "Ziphiidae")
 
-alive <- read_csv("../../Data/PHYLACINE_1.2/Data/Traits/Trait_data.csv", col_types = cols()) %>% 
+alive <- read_csv("https://raw.githubusercontent.com/MegaPast2Future/PHYLACINE_1.2/master/Data/Traits/Trait_data.csv",
+                  col_types = cols()) %>% 
   filter(
     !Family.1.2 %in% marine_families, #excluding cetaceans and pinnipeds families
     Order.1.2 != "Chiroptera", #excluding bats
@@ -13,7 +19,8 @@ alive <- read_csv("../../Data/PHYLACINE_1.2/Data/Traits/Trait_data.csv", col_typ
   ) %>% 
   pull(Binomial.1.2)
 
-extinct <- read_csv("../../Data/PHYLACINE_1.2/Data/Traits/Trait_data.csv", col_types = cols()) %>% 
+extinct <- read_csv("https://raw.githubusercontent.com/MegaPast2Future/PHYLACINE_1.2/master/Data/Traits/Trait_data.csv",
+                    col_types = cols()) %>% 
   filter(
     !Family.1.2 %in% marine_families, #excluding cetaceans and pinnipeds families
     Order.1.2 != "Chiroptera", #excluding bats
