@@ -130,7 +130,10 @@ plot_chord <- function(d, scenario, area) {
         rename_tl2(x)
       }))
   circos.clear()
-  circos.par(start.degree = 90, gap.degree = 4, track.margin = c(-0.1, 0.1), points.overflow.warning = FALSE)
+  circos.par(start.degree = 90, 
+             gap.degree = 4, 
+             track.margin = c(-0.1, 0.1), 
+             points.overflow.warning = FALSE)
   par(mar = rep(0, 4))
   chordDiagram(
     x = d, 
@@ -239,7 +242,22 @@ circos.trackPlotRegion(
 # raw values --------------------------------------------------------------
 d <- read_csv("../../Results/levels_raw.csv")
 
+mycolor <- c(MC = "#F21A00",
+             LC = "#E1AF00", 
+             SC = "#EBCC2A",
+             MH = "#00637c",
+             LH = "#3B9AB2",
+             SH = "#78B7C5")
+
+mycolor <- c(MC = "tomato",
+             MH = "dodgerblue",
+             LC = "orange", 
+             LH = "skyblue2",
+             SC = "lightgoldenrod2",
+             SH = "lightblue2")
+
 d %>% 
+  filter(Area == "Protected") %>% 
   mutate(Scenario = factor(Scenario, levels = c("PN", "CU", "RW")),
          Size = modify(Size, function(x) {
            rename_tl2(x)
@@ -262,19 +280,22 @@ d %>%
   geom_violin(aes(Scenario, Proportion, fill = Size), 
               show.legend = FALSE,
               alpha = 0.5,
-              # bw = 1,
+              #bw = 1,
               scale = "width", 
               trim = FALSE,
-              # draw_quantiles = 0.5,
+              #draw_quantiles = 0.5,
               size = 0.5) +
   xlab("") +
   ylab("Number of species") +
   scale_x_discrete(labels = c("No-extinction", "Current", "Rewilding")) +
-  facet_wrap(Size ~ ., scales = "free", ncol = 2) +
+  scale_fill_manual(values = as.vector(mycolor)) +
+  facet_wrap(Size ~ ., scales = "free_y", ncol = 2) +
   theme_classic() +
   theme(strip.background = element_blank(),
-        strip.text = element_text(hjust = 0.5))
+        strip.text = element_text(hjust = 0.5),
+        text = element_text(size = 14),
+        strip.text.x = element_text(size = 12))
 
-ggsave("../../Manuscript/Figures/raw_levels.png",
-       width = 6, 
-       height = 6)
+ggsave("../../Manuscript/Figures/raw_levels.png", width = 6.5, height = 8)
+ggsave("../../Manuscript/Figures/raw_levels.svg", width = 6.5, height = 8)
+
