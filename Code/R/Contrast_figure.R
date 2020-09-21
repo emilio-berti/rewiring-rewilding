@@ -1,6 +1,7 @@
 library(tidyverse)
 library(magrittr)
 library(circlize)
+library(see)
 
 rename_tl2 <- function(x){
   y <- switch (x,
@@ -256,6 +257,8 @@ mycolor <- c(MC = "tomato",
              SC = "lightgoldenrod2",
              SH = "lightblue2")
 
+source("geom_flat_violin.R")
+
 d %>% 
   filter(Area == "Protected") %>% 
   mutate(Scenario = factor(Scenario, levels = c("PN", "CU", "RW")),
@@ -271,17 +274,24 @@ d %>%
   group_by(Size) %>% 
   add_tally() %>% 
   ungroup() %>% 
+  mutate(Jitter = modify(as.numeric(Scenario), function(x) {
+    x - abs(rnorm(1, 0, 0.1))
+    })) %>% 
   ggplot() + 
-  geom_jitter(aes(Scenario, Proportion), 
-              alpha = 0.25, 
-              width = 0.25, 
-              height = 0.1,
-              size = 0.75) +
-  geom_violin(aes(Scenario, Proportion, fill = Size), 
+  geom_jitter(aes(Jitter, Proportion),
+             size = 1.5, 
+             height = 0.1, 
+             alpha = 0.25) +
+  # geom_jitter(aes(Scenario, Proportion),
+  #             alpha = 0.25,
+  #             width = 0.25,
+  #             height = 0.1,
+  #             size = 0.75) +
+  geom_violinhalf(aes(Scenario, Proportion, fill = Size),
               show.legend = FALSE,
               alpha = 0.5,
               #bw = 1,
-              scale = "width", 
+              scale = "width",
               trim = FALSE,
               #draw_quantiles = 0.5,
               size = 0.5) +
